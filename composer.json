@@ -1,5 +1,6 @@
 {
   "name": "arshinalbab/superlog",
+  "license": "MIT",
   "require-dev": {
     "phpunit/phpunit": "^9.5"
   },
