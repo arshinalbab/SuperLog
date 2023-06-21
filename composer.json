@@ -1,0 +1,11 @@
+{
+  "name": "arshinalbab/superlog",
+  "require-dev": {
+    "phpunit/phpunit": "^9.5"
+  },
+  "autoload": {
+    "psr-4": {
+      "SuperLog\\": "src/"
+    }
+  }
+}
